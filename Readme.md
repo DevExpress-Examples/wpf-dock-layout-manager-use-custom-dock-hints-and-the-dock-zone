@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomTheme.xaml](./CS/CustomThemeApp/CustomTheme.xaml) (VB: [CustomTheme.xaml](./VB/CustomThemeApp/CustomTheme.xaml))
+* [Window1.xaml](./CS/CustomThemeApp/Window1.xaml) (VB: [Window1.xaml.vb](./VB/CustomThemeApp/Window1.xaml.vb))
+* [Window1.xaml.cs](./CS/CustomThemeApp/Window1.xaml.cs) (VB: [Window1.xaml.vb](./VB/CustomThemeApp/Window1.xaml.vb))
+<!-- default file list end -->
 # How to use custom dock hints and the dock zone in the DockManager
 
 

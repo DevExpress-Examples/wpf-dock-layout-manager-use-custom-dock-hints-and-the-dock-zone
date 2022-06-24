@@ -5,7 +5,7 @@
 
 # WPF Dock Layout Manager - Use Custom Dock Hints and The Dock Zone 
 
-This example customizes left dock hint's colors.
+This example customizes the left dock hint's colors.
 
 To do this, override templates corresponding to the defined resource keys. The `DockVisualizerThemeKey` includes keys that specify the dock zone and dock hint element appearance. 
 
